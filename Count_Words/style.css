@@ -1,0 +1,13 @@
+body {
+    width: 200px;
+    text-align: center;
+}
+
+#user {
+    font-size: 16px;
+}
+
+#result {
+    font-size: 16px;
+    font-weight: bold;
+}
